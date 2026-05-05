@@ -1,3 +1,46 @@
+
 component ek function hai jo ki react karega jsx
 
-jsx html ki tarah dikhne wala syntax hai but uske paas kuch superpowers hai jo html ke paas nahi hai
+jsx html ki tarah dikhne wala syntax hai but uske paas kuch superpowers hai jo html ke paas nahi haiJSX
+
+
+JSX
+↓
+React.createElement(...)
+↓
+React Element (JS object)
+↓
+Real HTML shown on website
+
+
+
+
+
+react learning:->
+1. react js se code karna
+2. react js ka interview crack karna
+
+
+react learn what matters
+what? -> library to maintain frontend efficiently
+why? -> taaki pura DOM tree refresh na karna parre , library ka khudka ek dom tree hai , called virtual dom
+how? -> components creation; make, link and change data;
+react reacts when we change data
+where? 
+when? -> app creation
+
+code karne ki jagah banana - vs code
+code chalaane ki jagah banana - browser
+default code -> rfce
+code chalana
+output dikhana
+
+styling karna react mein
+
+component
+component banana
+component jorna
+component mein reaction of data change samajhna
+component mein data bhejna and recieve karna
+component mein khud ka data banana
+component mein bane hue data ko update karma
